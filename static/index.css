@@ -1,0 +1,45 @@
+body{
+	background-color:#FFFFFF;
+}
+
+
+.header{
+	color: black;
+	font-style: oblique;
+
+}
+.card-stacked{
+	background-color: #B56363;
+}
+
+label{
+	color: black;
+	font-size: 30px;
+	font-style: oblique;}
+input{
+	font-size: 20px;
+}
+
+.card-content{
+	color: black;
+	font-weight: 700;
+	line-height: 2.0;
+	font-style: oblique;
+	font-size: 23px;
+}
+
+.card-action{
+	color: black;
+	font-size: larger;
+}
+h1{
+	
+	font-style: oblique;
+	text-align: center;
+}
+
+.img{
+	display:block;
+margin:auto;
+}
+
